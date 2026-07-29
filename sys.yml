@@ -47,7 +47,7 @@
   en: "{:color #DDDCE1FF}'Final' Genie"
 
 - id: 0x4E7F
-  en: "{:color #EC1515F0}L{:reset}{:color #4537D4FF}i{:reset}{:color #DDDCE1FF}m{:reset}{:color #EC1515F0}i{:reset}{:color #EEC417FF}t{:reset} {:color #EC1515F0}F{:reset}{:color #4537D4FF}o{:reset}{:color #DDDCE1FF}r{:reset}{:color #EEC417FF}m"
+  en: "{:color #8C659CFF}Limit Form"
 
 - id: 0x4E9F
-  en: "{:color #EC1515F0}L{:reset}{:color #4537D4FF}i{:reset}{:color #DDDCE1FF}m{:reset}{:color #EC1515F0}i{:reset}{:color #EEC417FF}t{:reset}"
+  en: "{:color #8C659CFF}Limit"
