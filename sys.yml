@@ -1,0 +1,53 @@
+- id: 0x01E5
+  en: "{:color #EC1515F0}Valor Form"
+
+- id: 0x045D
+  en: "{:color #EC1515F0}Valor"
+
+- id: 0x432A
+  en: "{:color #EC1515F0}Valor"
+
+- id: 0x42B6
+  en: "{:color #EC1515F0}'Valor' Genie"
+
+- id: 0x01E6
+  en: "{:color #4537D4FF}Wisdom Form"
+
+- id: 0x3353
+  en: "{:color #4537D4FF}Wisdom"
+
+- id: 0x432B
+  en: "{:color #4537D4FF}Wisdom"
+
+- id: 0x42B7
+  en: "{:color #4537D4FF}'Wisdom' Genie"
+
+- id: 0x01E7
+  en: "{:color #EEC417FF}Master Form"
+
+- id: 0x045F
+  en: "{:color #EEC417FF}Master"
+
+- id: 0x42B8
+  en: "{:color #EEC417FF}'Master' Genie"
+
+- id: 0x432C
+  en: "{:color #EEC417FF}Master"
+
+- id: 0x01E8
+  en: "{:color #DDDCE1FF}Final Form"
+
+- id: 0x0461
+  en: "{:color #DDDCE1FF}Final"
+
+- id: 0x432D
+  en: "{:color #DDDCE1FF}Final"
+
+- id: 0x42B9
+  en: "{:color #DDDCE1FF}'Final' Genie"
+
+- id: 0x4E7F
+  en: "{:color #EC1515F0}L{:reset}{:color #4537D4FF}i{:reset}{:color #DDDCE1FF}m{:reset}{:color #EC1515F0}i{:reset}{:color #EEC417FF}t{:reset} {:color #EC1515F0}F{:reset}{:color #4537D4FF}o{:reset}{:color #DDDCE1FF}r{:reset}{:color #EEC417FF}m"
+
+- id: 0x4E9F
+  en: "{:color #EC1515F0}L{:reset}{:color #4537D4FF}i{:reset}{:color #DDDCE1FF}m{:reset}{:color #EC1515F0}i{:reset}{:color #EEC417FF}t{:reset}"
